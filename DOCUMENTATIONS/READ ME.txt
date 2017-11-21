@@ -1,0 +1,22 @@
+This program is a functional calculator built using javax.swing components, it performs the four basic 
+arithmetic operations and several scientific functions which include Trigonometric functions using the 
+respective methods from the java.lang.Math class.
+
+The Calculator.java file contains the main method. The file calculatorv100.java is the contains the class
+for the basic version of the calculator while the calculatorv110 contains the class for the sientific 
+version of the calculator.
+
+To run this code in an IDE, create your own new project and name it java_calculator so it is compatible with
+the package name.In creating your classes, make sure the name of the classes are the same as the one used in 
+this repository to avoid discrpancies in the object instantiation.
+
+Regards.
+Adedayo Matthews
+  
+----------------------------------------------------
+phone: +2348139004572
+facebook: www.facebook.com/kayode.adedayo1
+email: adedayomatt@gmail.com
+Instagram: @adedayomatt
+Twitter: @adedayomatt
+------------------------------------------------------
